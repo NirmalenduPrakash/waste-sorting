@@ -1,7 +1,8 @@
 # Deep Learning for Waste Sorting
 
-## Prerequistes
+```Prerequistes
 You can install all the prerequistes for code use using 
+```
 
 ```text
 pip install -r requirements.txt
